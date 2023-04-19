@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Questrial:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Secular+One:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sriracha:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-lato: Lato;
+  --font-montserrat: Montserrat;
+  --font-oswald: Oswald;
+  --font-libre-baskerville: "Libre Baskerville";
+  --font-sriracha: Sriracha;
+  --font-secular-one: "Secular One";
+  --font-questrial: Questrial;
+
+  /* font sizes */
+  --font-size-smi: 13px;
+  --font-size-base: 16px;
+  --font-size-3xl: 22px;
+  --font-size-13xl: 32px;
+  --font-size-lg: 18px;
+  --font-size-32xl: 51px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkcyan: #069aa1;
+  --color-gray-100: #1d1e21;
+  --color-powderblue: #a7d1d4;
+
+  /* border radiuses */
+  --br-9xs-5: 3.5px;
+  --br-xl: 20px;
+}
